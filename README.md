@@ -20,7 +20,7 @@ getFilteredMovies({ genres });
 ## Alternative Approaches
 1. I have added a more simpler alternative approach - however, this approach assumes that the maximum genres a movie can have is **3**. 
    
-- View approach in here: [src/alternativeApproach](https://github.com/Akaam-Zain/ewf-ts-task/blob/main/alternativeApproach.ts)
+- View approach in here: [src/alternativeApproach](https://github.com/Akaam-Zain/ewf-recruiter-task/blob/main/src/alternativeApproach.ts)
 
         
 <br/>
